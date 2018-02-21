@@ -1,0 +1,9 @@
+{
+  "defaultValues": {
+    "scope": "com.example.da.timer",
+    "version": "1.0",
+    "settings": {
+      "isPositionAnnounced": true
+    }
+  }
+}

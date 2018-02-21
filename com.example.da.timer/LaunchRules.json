@@ -1,0 +1,15 @@
+{
+  "voicePattern": [
+    {
+      "domain": "CUSTOMAPP",
+      "name": [
+        "train arrival alarm"
+      ],
+      "phrase": [
+        ".*"
+      ]
+    }
+  ],
+  "rules": [
+  ]
+}
